@@ -1,10 +1,11 @@
 {
   "name": "algoritmogenetico",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha --recursive"
+    "test": "mocha --recursive",
+    "start": "node app.js"
   },
   "author": "Vinícius Borriello",
   "license": "ISC",
