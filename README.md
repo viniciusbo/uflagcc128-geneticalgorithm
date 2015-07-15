@@ -1,4 +1,4 @@
-# Trabalho de Algorimo Genético para a disciplina Inteligência Artificial (UFLA 2015/01)
+# Trabalho de Algoritmo Genético para a disciplina Inteligência Artificial (UFLA 2015/01)
 
 ## Descrição do Trabalho
 
