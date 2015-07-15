@@ -1,0 +1,17 @@
+{
+  "name": "algoritmogenetico",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Vinícius Borriello",
+  "license": "ISC",
+  "dependencies": {
+    "random-js": "^1.0.4"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0"
+  }
+}
